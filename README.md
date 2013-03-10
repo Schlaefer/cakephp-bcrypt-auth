@@ -1,4 +1,9 @@
+*Note: CakePHP 2.3+ supports bcrypt via it's build in Security::hash function. *
+
+---
+
 Simple Bcrypt Authenticator for Cake 2
+
 
 Setup Auth configuration in controller:
 
