@@ -1,4 +1,4 @@
-*Note: CakePHP 2.3+ supports bcrypt via it's build in Security::hash function. *
+**Note: CakePHP 2.3+ supports bcrypt via its build in Security::hash function.**
 
 ---
 
